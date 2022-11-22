@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/taxi-park/static/css/main.b6acfb8c.chunk.css",
+    "main.js": "/taxi-park/static/js/main.508f2537.chunk.js",
+    "main.js.map": "/taxi-park/static/js/main.508f2537.chunk.js.map",
+    "runtime-main.js": "/taxi-park/static/js/runtime-main.892d4dca.js",
+    "runtime-main.js.map": "/taxi-park/static/js/runtime-main.892d4dca.js.map",
+    "static/js/2.b81df300.chunk.js": "/taxi-park/static/js/2.b81df300.chunk.js",
+    "static/js/2.b81df300.chunk.js.map": "/taxi-park/static/js/2.b81df300.chunk.js.map",
+    "index.html": "/taxi-park/index.html",
+    "static/css/main.b6acfb8c.chunk.css.map": "/taxi-park/static/css/main.b6acfb8c.chunk.css.map",
+    "static/js/2.b81df300.chunk.js.LICENSE.txt": "/taxi-park/static/js/2.b81df300.chunk.js.LICENSE.txt",
+    "static/media/IconsDirection.3237f626.svg": "/taxi-park/static/media/IconsDirection.3237f626.svg",
+    "static/media/addObj.5dde5ac9.svg": "/taxi-park/static/media/addObj.5dde5ac9.svg",
+    "static/media/cars.57843a93.svg": "/taxi-park/static/media/cars.57843a93.svg",
+    "static/media/deleteObj.a1cc3c86.svg": "/taxi-park/static/media/deleteObj.a1cc3c86.svg",
+    "static/media/drivers.d5e525b7.svg": "/taxi-park/static/media/drivers.d5e525b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892d4dca.js",
+    "static/js/2.b81df300.chunk.js",
+    "static/css/main.b6acfb8c.chunk.css",
+    "static/js/main.508f2537.chunk.js"
+  ]
+}
